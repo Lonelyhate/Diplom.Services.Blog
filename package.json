@@ -16,7 +16,8 @@
     "express": "^4.18.2",
     "express-fileupload": "^1.4.0",
     "mongoose": "^7.0.0",
-    "sequelize": "^6.29.0"
+    "sequelize": "^6.29.0",
+    "uuid": "^9.0.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.21"
